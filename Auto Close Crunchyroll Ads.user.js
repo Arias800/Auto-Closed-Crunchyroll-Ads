@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Close Crunchyroll Ads
 // @version      1.1.20
-// @description  Close and/or Mute Crunchyroll ads automatically!
+// @description  Close Crunchyroll ads automatically!
 // @author       fuzetsu (change by Arias800)
 // @match        http://static.ak.crunchyroll*
 // @match        https://static.ak.crunchyroll*
